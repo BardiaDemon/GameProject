@@ -1,0 +1,17 @@
+D:\C#\project_1398\game_project\game_project\bin\Debug\game_project.exe
+D:\C#\project_1398\game_project\game_project\bin\Debug\game_project.pdb
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.frmMain.resources
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.Properties.Resources.resources
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.csproj.GenerateResource.cache
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.exe
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.pdb
+D:\C#\project_1398\game_project\game_project\obj\Debug\game_project.csprojAssemblyReference.cache
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.exe
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.pdb
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\bin\Debug\game_project.exe
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\bin\Debug\game_project.pdb
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.csprojResolveAssemblyReference.cache
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.frmMain.resources
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.Properties.Resources.resources
+C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.csproj.GenerateResource.Cache
