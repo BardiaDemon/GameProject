@@ -15,3 +15,12 @@ C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_proj
 C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.frmMain.resources
 C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.Properties.Resources.resources
 C:\Users\pOOya\Desktop\new folder6\game_project\game_project\obj\Debug\game_project.csproj.GenerateResource.Cache
+D:\Programming\git\gitlab-to-github\GameProject\game_project\bin\Debug\game_project.exe
+D:\Programming\git\gitlab-to-github\GameProject\game_project\bin\Debug\game_project.pdb
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.csproj.AssemblyReference.cache
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.frmMain.resources
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.Properties.Resources.resources
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.csproj.GenerateResource.cache
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.csproj.CoreCompileInputs.cache
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.exe
+D:\Programming\git\gitlab-to-github\GameProject\game_project\obj\Debug\game_project.pdb
